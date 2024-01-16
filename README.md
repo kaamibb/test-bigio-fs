@@ -46,3 +46,7 @@ Proyek Full Stack yang saya kembangkan adalah suatu aplikasi yang memenuhi test 
 
 ## <a name="apk-link"></a> Youtube URL :
 https://www.youtube.com/watch?v=OABR6zpCpCc
+
+## Depoy Link
+https://test-bigio-fs-ceu5.vercel.app/
+NB: Silahkan di reload untuk melihat perubahannya
